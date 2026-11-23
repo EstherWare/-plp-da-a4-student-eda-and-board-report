@@ -1,4 +1,3 @@
-<img width="4032" height="1842" alt="image" src="https://github.com/user-attachments/assets/d7c3bf37-fd91-46c1-a30d-7f4ac3b8ae4b" /># Duka Electronics Dashboard
 
 ## Public Looker Studio Link
 
