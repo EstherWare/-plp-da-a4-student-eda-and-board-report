@@ -2,7 +2,7 @@
 
 ## Public Looker Studio Link
 
-https://lookerstudio.google.com/reporting/YOUR-LINK-HERE
+(https://datastudio.google.com/reporting/156ec2c2-eeb2-4d3d-85ed-4cc7b2b1aa5e)
 
 ## Dashboard Screenshot 1
 
