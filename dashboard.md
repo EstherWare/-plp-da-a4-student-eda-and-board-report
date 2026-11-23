@@ -1,4 +1,4 @@
-# Duka Electronics Dashboard
+<img width="4032" height="1842" alt="image" src="https://github.com/user-attachments/assets/d7c3bf37-fd91-46c1-a30d-7f4ac3b8ae4b" /># Duka Electronics Dashboard
 
 ## Public Looker Studio Link
 
@@ -21,10 +21,8 @@ The dashboard includes:
 
 ## Screenshots
 
-### Dashboard Overview
+Screenshot 1 – Dashboard Overview
+dashboard_images/dashboard_overview.png
 
-dashboard_images/Screenshot 1 Dashboard.png
-
-### Interactive Filters and Breakdown Charts
-
-dashboard_images/Screenshot 2 Filtered.png
+Screenshot 2 – Interactive Filters
+dashboard_images/dashboard_filtered.png
