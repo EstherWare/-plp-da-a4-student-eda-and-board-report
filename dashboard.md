@@ -23,8 +23,8 @@ The dashboard includes:
 
 ### Dashboard Overview
 
-![Dashboard Screenshot 1](dashboard_images/screenshot1.png)
+dashboard_images/Screenshot 1 Dashboard.png
 
 ### Interactive Filters and Breakdown Charts
 
-![Dashboard Screenshot 2](dashboard_images/screenshot2.png)
+dashboard_images/Screenshot 2 Filtered.png
