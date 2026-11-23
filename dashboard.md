@@ -4,8 +4,8 @@
 
 Paste your public dashboard URL below:
 
-https://lookerstudio.google.com/reporting/https://datastudio.google.com/u/0/reporting/156ec2c2-eeb2-4d3d-85ed-4cc7b2b1aa5e/page/ccmDG
-
+https://lookerstudio.google.com/reporting/[https://datastudio.google.com/u/0/reporting/156ec2c2-eeb2-4d3d-85ed-4cc7b2b1aa5e/page/ccmDG
+](https://datastudio.google.com/s/t57lEwUXrk0)
 ---
 
 ## Dashboard Features
