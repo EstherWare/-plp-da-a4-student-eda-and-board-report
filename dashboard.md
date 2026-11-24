@@ -2,7 +2,7 @@
 
 ## Public Looker Studio Link
 
-(https://datastudio.google.com/reporting/156ec2c2-eeb2-4d3d-85ed-4cc7b2b1aa5e)
+[Open the public Duka Electronics dashboard](https://datastudio.google.com/reporting/156ec2c2-eeb2-4d3d-85ed-4cc7b2b1aa5e)
 
 ## Dashboard Screenshot 1
 
@@ -11,5 +11,3 @@
 ## Dashboard Screenshot 2
 
 ![Filters and Breakdown Charts](dashboard_images/dashboard_filtered.png)
-
-
